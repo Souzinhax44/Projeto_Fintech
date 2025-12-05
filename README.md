@@ -2,14 +2,12 @@
 
 <p align="center">
   <!-- Logo -->
-  <img src="assets/logo.png" alt="Logo Fynco" width="200">
-
+  <img src="Assets/Images/logo.png" alt="Logo Fynco" width="200">
   <br><br>
-
+  <img src="https://img.shields.io/badge/Status-EM%20ANDAMENTO-yellow?style=for-the-badge">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20Bootstrap%205-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-EM%20ANDAMENTO-yellow?style=for-the-badge">
 </p>
 
 <h2 align="left">📝 Descrição</h2>
